@@ -10,7 +10,3 @@ A simple Python-based password manager that can:
 - Stores data in `passwords.txt`
 - Easy search functionality
 - Beginner-friendly Python project
-
-## How to Run
-1. Make sure Python is installed
-2. Run the program:
